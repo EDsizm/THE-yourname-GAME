@@ -1,0 +1,41 @@
+body {
+    background-color: #23272A;
+    background-image: url('https://cdn.discordapp.com/attachments/715988328972812358/715988839843495936/image0.png')
+}
+
+
+#bubble {
+    margin: 5rem;
+    padding: 3rem;
+    border-radius: 5rem;
+    background-color: rgba(0, 0, 0, 0.88);
+    padding-bottom: 1rem;
+}
+
+.jumbotron {
+    background-color: rgb(67, 73, 80);
+    background-image: url('https://media.discordapp.net/attachments/715988328972812358/715988815822716938/image0.png?width=684&height=684');
+    background-size: cover;
+    border-radius: 5rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    height: 85rem;
+}
+
+#canvasC {
+    margin: 3rem;
+    width: 900px;
+    height: 850px;
+    /*    margin: 0 auto;*/
+    position: relative;
+
+}
+
+.p5Canvas {
+    border-radius: 5rem;
+}
+
+.subtitle1 {
+    color: white;
+    font-family: monospace
+}
